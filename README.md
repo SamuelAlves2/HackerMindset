@@ -1,5 +1,3 @@
-Repositório com o objetivo de salvar anotações de atividades da matéria HackerMindset
-
 ### Hi there 👋
 
 <p align="left">
